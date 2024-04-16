@@ -1,0 +1,21 @@
+{
+  "name": "app-api",
+  "version": "0.0.1",
+  "description": "Api for task manager app build with graphql, nodejs, mongodb",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "dotenv": "^16.4.5"
+  },
+  "dependencies": {
+    "@apollo/server": "^4.10.3",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "ws": "^8.16.0"
+  }
+}
