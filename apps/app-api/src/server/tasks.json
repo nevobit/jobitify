@@ -1,0 +1,17 @@
+[
+    {
+        "id": "f7193f25-8f41-4ba5-80a3-e5d44e018d20",
+        "title": "Create Board",
+        "progress": 35
+    },
+    {
+        "id": "77eb9095-fa83-40df-ba1b-2abd5c44335f",
+        "title": "Review Tasks",
+        "progress": 72
+    },
+    {
+        "id": "1e95c5da-a9df-4da9-a710-5144a614da7e",
+        "title": "Initial config backend",
+        "progress": 10
+    }
+]
